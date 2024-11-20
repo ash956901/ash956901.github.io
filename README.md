@@ -8,5 +8,6 @@ Welcome to the repository for my personal website! It's designed to showcase my 
 - **MERN Stack Setup:** A demo showcasing the basics of MongoDB, Express, React, and Node.js.
 - **Personal Portfolio:** A place to view my work and projects.
 - **Easy Setup:** Simple to deploy on GitHub Pages with minimal configuration.
+I am new new
 
 
