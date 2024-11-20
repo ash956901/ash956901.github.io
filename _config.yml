@@ -1,0 +1,17 @@
+name: Ashutosh
+bio: MERN Stack Developer | Passionate about building full-stack applications
+theme: jekyll-theme-cayman
+socials:
+  github: https://github.com/yourusername
+  linkedin: https://linkedin.com/in/yourusername
+  twitter: https://twitter.com/yourusername
+projects:
+  - name: Project 1
+    description: A brief description of your project.
+    url: https://github.com/yourusername/project1
+  - name: Project 2
+    description: Another brief description of a project.
+    url: https://github.com/yourusername/project2
+contact:
+  email: your.email@example.com
+  phone: +1234567890
