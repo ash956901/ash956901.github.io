@@ -11,3 +11,5 @@ Welcome to the repository for my personal website! It's designed to showcase my 
 I am new new
 
 
+## Blog Posts
+-[My First Blog Post](./_posts/2024-11-20-my-first-blog.md)
